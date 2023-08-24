@@ -1,2 +1,4 @@
 # Customer_feedback_chat_summarizer
-chatbot plays main role in collecting the details and ML model will prove that data is correct or not and can mange tsk of analyzing it.
+Chatbots play important role in collecting the information from users. From that data, the insights and hidden trends can be found out using the machine learning model developed by us. It have quality of analysis compared to many sentiment analysis models. Through that data parts, the relational customer's interest of buying a product.
+# Role of model.
+Mainly, this model focus on how data collected, data got mined and analyzed properly. Sklearn is one of the toolkit used to analysis of the data and intiguing trends make us feel comfortable to work with. Regression analysis has made through all of the collected data. Thereforth, Product sales would rise. Ecommerce sector has scope for this model fit.
